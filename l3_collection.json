@@ -1,0 +1,5384 @@
+[
+    {
+        "id": "Pqrv",
+        "category": "ac-fan-and-other-space-cooling-appliances",
+        "l1_id": "EOPh",
+        "l2_id": "lQur"
+    },
+    {
+        "id": "LTwF",
+        "category": "air-purifiers-humidifiers-and-dehumidifiers",
+        "l1_id": "EOPh",
+        "l2_id": "lQur"
+    },
+    {
+        "id": "GqDS",
+        "category": "heaters-and-other-space-heating-systems",
+        "l1_id": "EOPh",
+        "l2_id": "lQur"
+    },
+    {
+        "id": "B130",
+        "category": "parts-and-accessories",
+        "l1_id": "EOPh",
+        "l2_id": "lQur"
+    },
+    {
+        "id": "Tp0O",
+        "category": "water-heaters-and-geysers",
+        "l1_id": "EOPh",
+        "l2_id": "lQur"
+    },
+    {
+        "id": "zXni",
+        "category": "cooking-appliances",
+        "l1_id": "EOPh",
+        "l2_id": "lQur"
+    },
+    {
+        "id": "Kv6U",
+        "category": "inverters-and-sets",
+        "l1_id": "EOPh",
+        "l2_id": "8xmz"
+    },
+    {
+        "id": "hCJn",
+        "category": "parts-and-accessories",
+        "l1_id": "EOPh",
+        "l2_id": "8xmz"
+    },
+    {
+        "id": "PiKs",
+        "category": "sewing-machines-and-accessories",
+        "l1_id": "EOPh",
+        "l2_id": "8xmz"
+    },
+    {
+        "id": "g14H",
+        "category": "vacuum-cleaners-and-other-cleaning-appliances",
+        "l1_id": "EOPh",
+        "l2_id": "8xmz"
+    },
+    {
+        "id": "kEkQ",
+        "category": "washing-machines-ironing-and-dryers",
+        "l1_id": "EOPh",
+        "l2_id": "8xmz"
+    },
+    {
+        "id": "1aR2",
+        "category": "vacuum-cleaning-and-ironing",
+        "l1_id": "EOPh",
+        "l2_id": "8xmz"
+    },
+    {
+        "id": "AZIj",
+        "category": "coffee-and-tea-appliances",
+        "l1_id": "EOPh",
+        "l2_id": "jmDL"
+    },
+    {
+        "id": "F4fx",
+        "category": "freezers-and-storage-appliances",
+        "l1_id": "EOPh",
+        "l2_id": "jmDL"
+    },
+    {
+        "id": "lBLM",
+        "category": "parts-and-accessories",
+        "l1_id": "EOPh",
+        "l2_id": "jmDL"
+    },
+    {
+        "id": "e8Ys",
+        "category": "range-hoods-and-chimneys",
+        "l1_id": "EOPh",
+        "l2_id": "jmDL"
+    },
+    {
+        "id": "7uPr",
+        "category": "water-purifiers-and-accessories",
+        "l1_id": "EOPh",
+        "l2_id": "jmDL"
+    },
+    {
+        "id": "DAyL",
+        "category": "mixers-and-small-kitchen-appliances",
+        "l1_id": "EOPh",
+        "l2_id": "jmDL"
+    },
+    {
+        "id": "q2qQ",
+        "category": "oven-and-cooking-appliances",
+        "l1_id": "EOPh",
+        "l2_id": "jmDL"
+    },
+    {
+        "id": "J87H",
+        "category": "vacuum-cleaning-and-ironing",
+        "l1_id": "EOPh",
+        "l2_id": "jmDL"
+    },
+    {
+        "id": "ANGD",
+        "category": "large-appliances",
+        "l1_id": "EOPh",
+        "l2_id": "jmDL"
+    },
+    {
+        "id": "7Hgn",
+        "category": "microwave-ovens",
+        "l1_id": "EOPh",
+        "l2_id": "jmDL"
+    },
+    {
+        "id": "05pQ",
+        "category": "freezers",
+        "l1_id": "EOPh",
+        "l2_id": "jmDL"
+    },
+    {
+        "id": "m5I5",
+        "category": "other",
+        "l1_id": "EOPh",
+        "l2_id": "pdRe"
+    },
+    {
+        "id": "G0xw",
+        "category": "manufacturing-and-3d-printing-equipment",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "CJXU",
+        "category": "cutting-milling-and-machining-tools",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "NNJn",
+        "category": "hand-power-and-electrical-tools",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "NpkD",
+        "category": "measurement-calibration-and-testing-equipment",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "WoQS",
+        "category": "food-service-and-catering-equipment",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "byeY",
+        "category": "agriculture-forestry-and-harvesting-equipment",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "Zwu1",
+        "category": "electrical-components-and-systems",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "E3Ht",
+        "category": "industrial-supplies",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "8aa2",
+        "category": "pneumatic-hydraulic-and-plumbing-systems",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "KZkl",
+        "category": "vehicle-parts-and-equipment",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "KTLi",
+        "category": "industrial-cleaning-and-sanitation-supplies",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "2Kbb",
+        "category": "other",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "UHx7",
+        "category": "retail-display-and-storage-solutions",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "UBqF",
+        "category": "ppe-apparel-and-protective-gear",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "FXOM",
+        "category": "packaging-shipping-and-retail-supplies",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "rYvY",
+        "category": "material-handling",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "1Kaw",
+        "category": "workplace-safety-and-material-handling",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "nZYE",
+        "category": "medical-and-dental-supplies",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "jvyT",
+        "category": "consumables-disposables-and-paper-products",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "For3",
+        "category": "fluid-handling-and-filtration-systems",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "X5Fu",
+        "category": "sensors-and-instrumentation",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "LyFE",
+        "category": "communication-and-fiber-optic-products",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "3JTh",
+        "category": "safety-and-emergency-equipment",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "6N4C",
+        "category": "automation-and-control-systems",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "6YKM",
+        "category": "mixing-and-processing-equipment",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "x2uY",
+        "category": "lab-and-safety-furniture",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "BMTu",
+        "category": "cleaning-tools-kits-and-cleaners",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "fmrW",
+        "category": "cleaning-tools-and-equipment",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "fXZd",
+        "category": "office-supplies",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "PlDC",
+        "category": "furniture-and-fixtures",
+        "l1_id": "TRD6",
+        "l2_id": "VhdT"
+    },
+    {
+        "id": "BVyE",
+        "category": "electrical-and-power",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "lyA3",
+        "category": "motorbike-and-motorcycle",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "ujrw",
+        "category": "body-and-paint",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "QlpJ",
+        "category": "tools-and-workshop",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "EhXa",
+        "category": "electronics-and-entertainment",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "8WH6",
+        "category": "cooling-and-air-conditioning",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "ZRLM",
+        "category": "engine-and-transmission",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "JmWe",
+        "category": "suspension-and-steering",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "6zSJ",
+        "category": "transport-and-towing",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "xqBg",
+        "category": "lighting-and-indicators",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "loGy",
+        "category": "apparel-and-merchandise",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "SEog",
+        "category": "interior-accessories",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "Czbu",
+        "category": "services-and-repairs",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "Jb3u",
+        "category": "exterior-accessories",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "Gbl3",
+        "category": "motorhome-and-caravan",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "kh02",
+        "category": "other",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "yhmQ",
+        "category": "brakes-and-suspension",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "40L4",
+        "category": "exhaust-and-fuel",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "gb5j",
+        "category": "diagnostic-test-and-measuring-tools",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "jRsi",
+        "category": "tires-and-wheels",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "Tx9S",
+        "category": "winter-equipments",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "pZp5",
+        "category": "vehicle-parts-and-equipment",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "Ob9U",
+        "category": "steering-and-suspension-tools",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "65z7",
+        "category": "security-and-protection",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "AJnD",
+        "category": "wipers-and-washers",
+        "l1_id": "TRD6",
+        "l2_id": "qaMo"
+    },
+    {
+        "id": "z50e",
+        "category": "laboratory-equipment-and-consumables",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "A0Zs",
+        "category": "measurement-and-data-acquisition-systems",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "mkwS",
+        "category": "life-science-and-specimen-management",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "A9hn",
+        "category": "medical-imaging-and-diagnostic-tools",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "GgZa",
+        "category": "medical-consumables-and-disposables",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "tJfk",
+        "category": "dental-and-orthodontic-supplies",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "kNIz",
+        "category": "patient-care-and-respiratory-equipment",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "VFNu",
+        "category": "fluid-handling-and-filtration-systems",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "KP51",
+        "category": "lab-and-safety-furniture",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "tWx1",
+        "category": "optical-instruments-and-microscopy",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "SbvN",
+        "category": "infection-control-and-sterilization",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "eBhO",
+        "category": "other",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "WJea",
+        "category": "mixing-and-processing-equipment",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "xuSh",
+        "category": "science-education-and-resources",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "BEDF",
+        "category": "environmental-monitoring-and-analysis",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "euKE",
+        "category": "thermal-management-and-climate-control",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "dAjp",
+        "category": "medical-and-dental-supplies",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "FgR6",
+        "category": "pressure-and-vacuum-equipment",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "Xzbn",
+        "category": "surface-and-material-testing",
+        "l1_id": "TRD6",
+        "l2_id": "6kcd"
+    },
+    {
+        "id": "aLBM",
+        "category": "additives",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "2yK4",
+        "category": "engine-and-transmission",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "zSbS",
+        "category": "oils-fluids-and-operating-liquids",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "YbTP",
+        "category": "cleaning-tools-kits-and-cleaners",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "nUzp",
+        "category": "tools-and-workshop",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "Yd8p",
+        "category": "steering-and-suspension-tools",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "xMvF",
+        "category": "hand-tools",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "ipW5",
+        "category": "brakes-and-suspension",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "xhhG",
+        "category": "brake-tools",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "RKRO",
+        "category": "exhaust-and-fuel",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "4615",
+        "category": "paint-and-exterior-care",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "gI3O",
+        "category": "other",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "qmRs",
+        "category": "interior-care",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "3iHP",
+        "category": "diagnostic-test-and-measuring-tools",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "bO9l",
+        "category": "oil-system-tools-and-equipment",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "RJEY",
+        "category": "tyre-and-rim-care",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "tlrZ",
+        "category": "services-and-repairs",
+        "l1_id": "TRD6",
+        "l2_id": "jpIP"
+    },
+    {
+        "id": "0Y7r",
+        "category": "other",
+        "l1_id": "TRD6",
+        "l2_id": "kaxH"
+    },
+    {
+        "id": "XIWp",
+        "category": "dresses",
+        "l1_id": "TRD6",
+        "l2_id": "QgMH"
+    },
+    {
+        "id": "TYHO",
+        "category": "suits",
+        "l1_id": "TRD6",
+        "l2_id": "QgMH"
+    },
+    {
+        "id": "ZSNj",
+        "category": "scarves-and-wraps",
+        "l1_id": "TRD6",
+        "l2_id": "NyoA"
+    },
+    {
+        "id": "Ah1R",
+        "category": "scarves-and-shawls",
+        "l1_id": "TRD6",
+        "l2_id": "NyoA"
+    },
+    {
+        "id": "8Gut",
+        "category": "tops-and-t-shirts",
+        "l1_id": "TRD6",
+        "l2_id": "IM11"
+    },
+    {
+        "id": "ORUb",
+        "category": "bottoms",
+        "l1_id": "TRD6",
+        "l2_id": "IM11"
+    },
+    {
+        "id": "P7je",
+        "category": "attars-and-essential-oils",
+        "l1_id": "9ybq",
+        "l2_id": "yzjJ"
+    },
+    {
+        "id": "sfFU",
+        "category": "bath-sets-and-kits",
+        "l1_id": "9ybq",
+        "l2_id": "yzjJ"
+    },
+    {
+        "id": "I4hI",
+        "category": "body-mists-and-sprays",
+        "l1_id": "9ybq",
+        "l2_id": "yzjJ"
+    },
+    {
+        "id": "6LFC",
+        "category": "eau-de-cologne-(edc)",
+        "l1_id": "9ybq",
+        "l2_id": "yzjJ"
+    },
+    {
+        "id": "I271",
+        "category": "eau-de-parfum-(edp)",
+        "l1_id": "9ybq",
+        "l2_id": "yzjJ"
+    },
+    {
+        "id": "S0dq",
+        "category": "eau-de-toilette-(edt)",
+        "l1_id": "9ybq",
+        "l2_id": "yzjJ"
+    },
+    {
+        "id": "4V0a",
+        "category": "other",
+        "l1_id": "9ybq",
+        "l2_id": "yzjJ"
+    },
+    {
+        "id": "k8Ln",
+        "category": "perfumes",
+        "l1_id": "9ybq",
+        "l2_id": "yzjJ"
+    },
+    {
+        "id": "sm1k",
+        "category": "bath-salts-bath-bombs-and-bath-additives",
+        "l1_id": "9ybq",
+        "l2_id": "3V7c"
+    },
+    {
+        "id": "RiPO",
+        "category": "bath-sets-and-kits",
+        "l1_id": "9ybq",
+        "l2_id": "3V7c"
+    },
+    {
+        "id": "V9od",
+        "category": "bathing-accessories",
+        "l1_id": "9ybq",
+        "l2_id": "3V7c"
+    },
+    {
+        "id": "3upv",
+        "category": "body-care",
+        "l1_id": "9ybq",
+        "l2_id": "3V7c"
+    },
+    {
+        "id": "YD3w",
+        "category": "body-oils-body-butters-and-creams",
+        "l1_id": "9ybq",
+        "l2_id": "3V7c"
+    },
+    {
+        "id": "WRDi",
+        "category": "body-scrubs-and-exfoliators",
+        "l1_id": "9ybq",
+        "l2_id": "3V7c"
+    },
+    {
+        "id": "a9TK",
+        "category": "soaps-body-wash-and-shower-gel",
+        "l1_id": "9ybq",
+        "l2_id": "3V7c"
+    },
+    {
+        "id": "LUmS",
+        "category": "body-care",
+        "l1_id": "9ybq",
+        "l2_id": "CMIn"
+    },
+    {
+        "id": "c9hz",
+        "category": "eye-care",
+        "l1_id": "9ybq",
+        "l2_id": "CMIn"
+    },
+    {
+        "id": "EQxk",
+        "category": "face-care",
+        "l1_id": "9ybq",
+        "l2_id": "CMIn"
+    },
+    {
+        "id": "4Nup",
+        "category": "hand-and-foot-care",
+        "l1_id": "9ybq",
+        "l2_id": "CMIn"
+    },
+    {
+        "id": "ypRc",
+        "category": "hands-and-nails",
+        "l1_id": "9ybq",
+        "l2_id": "CMIn"
+    },
+    {
+        "id": "oUTp",
+        "category": "lip-care",
+        "l1_id": "9ybq",
+        "l2_id": "CMIn"
+    },
+    {
+        "id": "3g5G",
+        "category": "hair-removal-products-tools-and-accessories",
+        "l1_id": "9ybq",
+        "l2_id": "CMIn"
+    },
+    {
+        "id": "i2Wh",
+        "category": "skincare-sets-and-kits",
+        "l1_id": "9ybq",
+        "l2_id": "CMIn"
+    },
+    {
+        "id": "RMqG",
+        "category": "skincare-tools-and-accessories",
+        "l1_id": "9ybq",
+        "l2_id": "CMIn"
+    },
+    {
+        "id": "90yO",
+        "category": "sun-care",
+        "l1_id": "9ybq",
+        "l2_id": "CMIn"
+    },
+    {
+        "id": "kv9w",
+        "category": "body-makeup",
+        "l1_id": "9ybq",
+        "l2_id": "LK4R"
+    },
+    {
+        "id": "kP0K",
+        "category": "eye-makeup",
+        "l1_id": "9ybq",
+        "l2_id": "LK4R"
+    },
+    {
+        "id": "BSe1",
+        "category": "face-makeup",
+        "l1_id": "9ybq",
+        "l2_id": "LK4R"
+    },
+    {
+        "id": "jaxN",
+        "category": "lip-makeup",
+        "l1_id": "9ybq",
+        "l2_id": "LK4R"
+    },
+    {
+        "id": "N7KS",
+        "category": "makeup-brushes-tools-and-accessories",
+        "l1_id": "9ybq",
+        "l2_id": "LK4R"
+    },
+    {
+        "id": "AnK5",
+        "category": "nail-makeup",
+        "l1_id": "9ybq",
+        "l2_id": "LK4R"
+    },
+    {
+        "id": "worC",
+        "category": "combs-and-hairbrushes",
+        "l1_id": "9ybq",
+        "l2_id": "XjoY"
+    },
+    {
+        "id": "fXZX",
+        "category": "cotton-pads-and-swabs",
+        "l1_id": "9ybq",
+        "l2_id": "XjoY"
+    },
+    {
+        "id": "PCkw",
+        "category": "eyelash-curlers-and-tweezers",
+        "l1_id": "9ybq",
+        "l2_id": "XjoY"
+    },
+    {
+        "id": "gRxp",
+        "category": "hair-styling-tools",
+        "l1_id": "9ybq",
+        "l2_id": "XjoY"
+    },
+    {
+        "id": "1u4P",
+        "category": "makeup-brushes-and-sponges",
+        "l1_id": "9ybq",
+        "l2_id": "XjoY"
+    },
+    {
+        "id": "YlnS",
+        "category": "mirrors-and-compact-mirrors",
+        "l1_id": "9ybq",
+        "l2_id": "XjoY"
+    },
+    {
+        "id": "9SyB",
+        "category": "nail-and-manicure-tools",
+        "l1_id": "9ybq",
+        "l2_id": "XjoY"
+    },
+    {
+        "id": "Dnl5",
+        "category": "other",
+        "l1_id": "9ybq",
+        "l2_id": "XjoY"
+    },
+    {
+        "id": "crWI",
+        "category": "deodorants-and-body-fresheners",
+        "l1_id": "9ybq",
+        "l2_id": "nG3g"
+    },
+    {
+        "id": "aNEQ",
+        "category": "wipes-and-intimate-hygiene",
+        "l1_id": "9ybq",
+        "l2_id": "nG3g"
+    },
+    {
+        "id": "WmVi",
+        "category": "sanitary-napkins-and-menstrual-care",
+        "l1_id": "9ybq",
+        "l2_id": "nG3g"
+    },
+    {
+        "id": "huj5",
+        "category": "hair-accessories",
+        "l1_id": "9ybq",
+        "l2_id": "V1kp"
+    },
+    {
+        "id": "XrOG",
+        "category": "hair-care-sets",
+        "l1_id": "9ybq",
+        "l2_id": "V1kp"
+    },
+    {
+        "id": "uQyF",
+        "category": "hair-coloring-products",
+        "l1_id": "9ybq",
+        "l2_id": "V1kp"
+    },
+    {
+        "id": "teKd",
+        "category": "hair-extensions-and-wigs",
+        "l1_id": "9ybq",
+        "l2_id": "V1kp"
+    },
+    {
+        "id": "bGny",
+        "category": "hair-masks-and-treatments",
+        "l1_id": "9ybq",
+        "l2_id": "V1kp"
+    },
+    {
+        "id": "gCrb",
+        "category": "hair-oils-and-serums",
+        "l1_id": "9ybq",
+        "l2_id": "V1kp"
+    },
+    {
+        "id": "zkQ6",
+        "category": "hair-removal-products-tools-and-accessories",
+        "l1_id": "9ybq",
+        "l2_id": "V1kp"
+    },
+    {
+        "id": "ZPZ4",
+        "category": "hair-styling-products-and-hair-color",
+        "l1_id": "9ybq",
+        "l2_id": "V1kp"
+    },
+    {
+        "id": "KKCr",
+        "category": "hair-styling-tools",
+        "l1_id": "9ybq",
+        "l2_id": "V1kp"
+    },
+    {
+        "id": "cqvb",
+        "category": "bathing-accessories",
+        "l1_id": "9ybq",
+        "l2_id": "V1kp"
+    },
+    {
+        "id": "QjPt",
+        "category": "shampoo-conditioner-and-cleansers",
+        "l1_id": "9ybq",
+        "l2_id": "V1kp"
+    },
+    {
+        "id": "XKoB",
+        "category": "mouthwash-and-oral-rinse",
+        "l1_id": "9ybq",
+        "l2_id": "tClk"
+    },
+    {
+        "id": "jiB0",
+        "category": "toothpastes-and-toothbrushes",
+        "l1_id": "9ybq",
+        "l2_id": "tClk"
+    },
+    {
+        "id": "ittq",
+        "category": "other",
+        "l1_id": "9ybq",
+        "l2_id": "Y2kD"
+    },
+    {
+        "id": "uCAr",
+        "category": "shaving-tools-and-products",
+        "l1_id": "9ybq",
+        "l2_id": "1Rkc"
+    },
+    {
+        "id": "pTcC",
+        "category": "action-and-adventure",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "IXuB",
+        "category": "animals-and-pets",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "ZKpj",
+        "category": "art-books",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "852n",
+        "category": "art-film-and-photography",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "1oNN",
+        "category": "arts-and-photography",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "3FbC",
+        "category": "arts-film-and-photography",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "Pl3m",
+        "category": "audible-books-and-originals",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "G1QA",
+        "category": "audible-books",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "2tMa",
+        "category": "audiobooks",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "USEc",
+        "category": "biographies-and-autobiographies",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "Guzi",
+        "category": "biographies-and-memoirs",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "JETL",
+        "category": "biographies-diaries-and-true-accounts",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "6cqI",
+        "category": "biographies",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "gBsK",
+        "category": "business-and-careers",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "1hza",
+        "category": "business-and-economics",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "2ElX",
+        "category": "business-and-finance",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "u9PW",
+        "category": "business-and-strategy",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "m6tQ",
+        "category": "business-development-and-entrepreneurship",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "rhxz",
+        "category": "cars-trains-and-things-that-go",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "6GO1",
+        "category": "children-and-young-adults",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "pePV",
+        "category": "childrens-audiobooks",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "uMl7",
+        "category": "childrens-books",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "a4H6",
+        "category": "childrens-literature",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "J8XG",
+        "category": "childrens-ebooks",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "FSLe",
+        "category": "classic-fiction",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "E0id",
+        "category": "comedy-and-humor",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "yg0y",
+        "category": "comics-and-graphic-novels",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "WlfA",
+        "category": "comics-and-mangas",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "n7nh",
+        "category": "comics-and-manga",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "ioT5",
+        "category": "comics",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "56Jk",
+        "category": "communication-and-journalism",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "G1Z4",
+        "category": "computers-and-internet",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "LJzU",
+        "category": "computers-and-technology",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "abl8",
+        "category": "contemporary-fiction",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "Zrkp",
+        "category": "crafts-and-hobbies",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "gRB2",
+        "category": "crafts-hobbies-and-home",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "ekhB",
+        "category": "crafts-hobbies-and-practical-interests",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "qWZN",
+        "category": "crime-and-thriller",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "ju5F",
+        "category": "crime-mystery-and-thrillers",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "HxUd",
+        "category": "crime-thriller-and-mystery",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "H1qC",
+        "category": "diaries-and-journals",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "JN59",
+        "category": "digital-books",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "LybX",
+        "category": "digital-media-and-graphic-design",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "cZyo",
+        "category": "early-learning",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "TuOZ",
+        "category": "education-and-learning",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "IABn",
+        "category": "education-and-reference",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "FdHv",
+        "category": "engineering-textbooks",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "exhT",
+        "category": "engineering",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "VUfu",
+        "category": "etiquette",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "QGvJ",
+        "category": "exam-preparation",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "NdT0",
+        "category": "fairy-tales-folk-tales-and-myths",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "fkOz",
+        "category": "family-personal-and-social-issues",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "qojd",
+        "category": "fantasy-science-fiction-and-horror",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "noL0",
+        "category": "fantasy",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "x4Xh",
+        "category": "foreign-language-ebooks",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "fCpi",
+        "category": "games-and-strategy-guides",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "lQ0W",
+        "category": "games-toys-and-activities",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "ATnU",
+        "category": "geography-and-cultures",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "FOBH",
+        "category": "growing-up-and-facts-of-life",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "GWyV",
+        "category": "health-and-wellness",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "MriR",
+        "category": "health-family-and-personal-development",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "Q1sA",
+        "category": "health-fitness-and-nutrition",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "fiiS",
+        "category": "higher-education-textbooks",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "C6Oi",
+        "category": "historical-fiction",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "oQFE",
+        "category": "history",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "Dv91",
+        "category": "holidays-and-celebrations",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "XhuR",
+        "category": "horror",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "PUZX",
+        "category": "humanities",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "aFIh",
+        "category": "humour",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "CXp6",
+        "category": "interactive-and-activity-books",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "AxCl",
+        "category": "language-learning-and-teaching",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "xNyO",
+        "category": "language-learning",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "8w5H",
+        "category": "language-linguistics-and-writing",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "e9AH",
+        "category": "law-books",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "hJjH",
+        "category": "law",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "ivDr",
+        "category": "legal-reference",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "oFi6",
+        "category": "lifestyle-and-personal-style-guides",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "3BOi",
+        "category": "literature-and-fiction",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "3Afj",
+        "category": "maps-and-atlases",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "4bfv",
+        "category": "mathematics",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "fU1c",
+        "category": "medical-textbooks",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "11vE",
+        "category": "medical-and-health-sciences-textbooks",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "UQli",
+        "category": "medicine-and-health-sciences-textbooks",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "qjVi",
+        "category": "medicine",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "PdMu",
+        "category": "money-and-jobs",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "Pvhx",
+        "category": "mysteries-and-curiosities",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "mV5V",
+        "category": "myths-legends-and-sagas",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "k8qR",
+        "category": "other",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "iTdB",
+        "category": "parenting-and-relationships",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "r5PU",
+        "category": "personal-development-and-self-help",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "3XCb",
+        "category": "picture-books",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "7tBO",
+        "category": "poetry",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "I3JV",
+        "category": "political-ideologies",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "cy7H",
+        "category": "political-theory",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "Dojw",
+        "category": "politics",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "ftNH",
+        "category": "programming-and-software-development",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "8Dht",
+        "category": "reference",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "bOJf",
+        "category": "religion-and-spirituality",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "39ez",
+        "category": "religion",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "mnye",
+        "category": "religious-studies",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "luwF",
+        "category": "romance",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "ovv4",
+        "category": "school-books",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "gMiG",
+        "category": "science-fiction-and-fantasy",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "8Zsy",
+        "category": "science-fiction",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "VR4B",
+        "category": "science-and-mathematics-textbooks",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "ufzS",
+        "category": "science-nature-and-technology",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "xH5a",
+        "category": "science-technology-and-medicine",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "dLqi",
+        "category": "self-help",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "dmIy",
+        "category": "social-and-family-issues",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "w5Rv",
+        "category": "social-sciences",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "Jq6h",
+        "category": "society-and-social-sciences",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "mz6N",
+        "category": "specialty-travel",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "ZJEg",
+        "category": "sports-books",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "8mon",
+        "category": "sports",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "Wem7",
+        "category": "study-guides-and-workbooks",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "YiTq",
+        "category": "teaching-and-education",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "0KXB",
+        "category": "teen-and-young-adult",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "LhOp",
+        "category": "textbooks-and-study-guides",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "77Ye",
+        "category": "textbooks",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "OdK4",
+        "category": "traditional-stories",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "gijX",
+        "category": "travel-and-holiday-guides",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "UJXH",
+        "category": "travel-and-tourism",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "WcXZ",
+        "category": "travel-writing",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "O81Y",
+        "category": "words-language-and-grammar",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "MnYy",
+        "category": "world-history",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "lufE",
+        "category": "writing-guides",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "tLKP",
+        "category": "ebooks",
+        "l1_id": "kD4s",
+        "l2_id": "5UXl"
+    },
+    {
+        "id": "jWf5",
+        "category": "film-genres",
+        "l1_id": "kD4s",
+        "l2_id": "aHRF"
+    },
+    {
+        "id": "RtDv",
+        "category": "tv-shows",
+        "l1_id": "kD4s",
+        "l2_id": "aHRF"
+    },
+    {
+        "id": "A3lv",
+        "category": "alternative-and-indie",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "6kpT",
+        "category": "bhangra",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "R6ck",
+        "category": "blues",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "JLJW",
+        "category": "childrens-music-and-radio-plays",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "Eua0",
+        "category": "christian-rock",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "kxQ8",
+        "category": "christmas-music",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "fSrJ",
+        "category": "comedy-and-spoken-word",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "QWNv",
+        "category": "country",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "m5Vr",
+        "category": "dance-and-electronic",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "fq9h",
+        "category": "devotional-and-spiritual",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "GaId",
+        "category": "easy-listening",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "NAVh",
+        "category": "film-soundtracks",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "k3BE",
+        "category": "folk-and-songwriter",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "ss6Y",
+        "category": "ghazals",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "tIMC",
+        "category": "gospel",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "0pRE",
+        "category": "hard-rock-and-metal",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "yDKv",
+        "category": "healing-and-meditation",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "AlSL",
+        "category": "indi-pop",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "hLOj",
+        "category": "indian-classical",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "2imc",
+        "category": "jazz",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "NUtG",
+        "category": "lounge-and-fusion",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "Nt06",
+        "category": "other",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "HGxW",
+        "category": "pop",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "TgNH",
+        "category": "randb-and-soul",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "0hL1",
+        "category": "rap-and-hip-hop",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "eShA",
+        "category": "reggae",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "rear",
+        "category": "rock",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "HSIh",
+        "category": "sound-effects-and-nature",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "uArW",
+        "category": "western-classical",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "OV8o",
+        "category": "world-music",
+        "l1_id": "kD4s",
+        "l2_id": "LUbu"
+    },
+    {
+        "id": "EquF",
+        "category": "other",
+        "l1_id": "kD4s",
+        "l2_id": "SMMT"
+    },
+    {
+        "id": "oOWr",
+        "category": "baby-bags",
+        "l1_id": "2DzO",
+        "l2_id": "wMfx"
+    },
+    {
+        "id": "2Z4h",
+        "category": "clothing-asscessories",
+        "l1_id": "2DzO",
+        "l2_id": "wMfx"
+    },
+    {
+        "id": "it5Y",
+        "category": "hair-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "wMfx"
+    },
+    {
+        "id": "sDN5",
+        "category": "hats-and-caps",
+        "l1_id": "2DzO",
+        "l2_id": "wMfx"
+    },
+    {
+        "id": "JxWJ",
+        "category": "jewellery",
+        "l1_id": "2DzO",
+        "l2_id": "wMfx"
+    },
+    {
+        "id": "BZaC",
+        "category": "sunglasses-and-eyewear-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "wMfx"
+    },
+    {
+        "id": "vVcH",
+        "category": "winter-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "wMfx"
+    },
+    {
+        "id": "RCuN",
+        "category": "baby-bottoms",
+        "l1_id": "2DzO",
+        "l2_id": "qpJ0"
+    },
+    {
+        "id": "KghV",
+        "category": "baby-dresses",
+        "l1_id": "2DzO",
+        "l2_id": "qpJ0"
+    },
+    {
+        "id": "MasE",
+        "category": "baby-ethnic-wear",
+        "l1_id": "2DzO",
+        "l2_id": "qpJ0"
+    },
+    {
+        "id": "ruyy",
+        "category": "baby-innerwear",
+        "l1_id": "2DzO",
+        "l2_id": "qpJ0"
+    },
+    {
+        "id": "ukij",
+        "category": "baby-outerwear",
+        "l1_id": "2DzO",
+        "l2_id": "qpJ0"
+    },
+    {
+        "id": "Si5q",
+        "category": "baby-sleepwear",
+        "l1_id": "2DzO",
+        "l2_id": "qpJ0"
+    },
+    {
+        "id": "FrnC",
+        "category": "baby-tops",
+        "l1_id": "2DzO",
+        "l2_id": "qpJ0"
+    },
+    {
+        "id": "TFs7",
+        "category": "boys-sports-clothing-and-activewear",
+        "l1_id": "2DzO",
+        "l2_id": "qpJ0"
+    },
+    {
+        "id": "yjsr",
+        "category": "girls-sports-clothing-and-activewear",
+        "l1_id": "2DzO",
+        "l2_id": "qpJ0"
+    },
+    {
+        "id": "ghmw",
+        "category": "girls-winterwear-and-outerwear",
+        "l1_id": "2DzO",
+        "l2_id": "qpJ0"
+    },
+    {
+        "id": "4Okb",
+        "category": "baby-shoes-and-boots",
+        "l1_id": "2DzO",
+        "l2_id": "b5Nk"
+    },
+    {
+        "id": "Fscp",
+        "category": "boys-bags-handbags-and-backpacks",
+        "l1_id": "2DzO",
+        "l2_id": "BKhp"
+    },
+    {
+        "id": "868s",
+        "category": "boys-clothing-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "BKhp"
+    },
+    {
+        "id": "3DKP",
+        "category": "boys-jewellery",
+        "l1_id": "2DzO",
+        "l2_id": "BKhp"
+    },
+    {
+        "id": "10HK",
+        "category": "boys-winter-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "BKhp"
+    },
+    {
+        "id": "DpEw",
+        "category": "clothing-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "BKhp"
+    },
+    {
+        "id": "kG5f",
+        "category": "girls-clothing-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "BKhp"
+    },
+    {
+        "id": "UlPz",
+        "category": "girls-jewellery",
+        "l1_id": "2DzO",
+        "l2_id": "BKhp"
+    },
+    {
+        "id": "wMhy",
+        "category": "girls-winter-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "BKhp"
+    },
+    {
+        "id": "ifUQ",
+        "category": "jewellery",
+        "l1_id": "2DzO",
+        "l2_id": "BKhp"
+    },
+    {
+        "id": "Imij",
+        "category": "sunglasses-and-eyewear-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "BKhp"
+    },
+    {
+        "id": "9szj",
+        "category": "unisex-winter-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "BKhp"
+    },
+    {
+        "id": "wd6C",
+        "category": "watches",
+        "l1_id": "2DzO",
+        "l2_id": "BKhp"
+    },
+    {
+        "id": "gQTT",
+        "category": "boys-bottoms---western-wear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "WE0s",
+        "category": "boys-clothing-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "RqrT",
+        "category": "boys-dresses",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "e3a6",
+        "category": "boys-ethnic-wear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "5UZ9",
+        "category": "boys-innerwear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "ZJXG",
+        "category": "boys-sleepwear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "mitM",
+        "category": "boys-sports-clothing-and-activewear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "wylt",
+        "category": "boys-swimwear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "TPXC",
+        "category": "boys-tops-and-t-shirts---western-wear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "gWDs",
+        "category": "boys-winter-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "d1hX",
+        "category": "boys-winterwear-and-outerwear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "wm20",
+        "category": "girls-bottoms---western-wear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "2g8U",
+        "category": "girls-clothing-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "3Vjk",
+        "category": "girls-dresses",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "SfWq",
+        "category": "girls-ethnic-wear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "YjXT",
+        "category": "girls-innerwear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "XZDP",
+        "category": "girls-sleepwear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "isKu",
+        "category": "girls-sports-clothing-and-activewear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "n0VU",
+        "category": "girls-tops-and-t-shirts---western-wear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "icIc",
+        "category": "girls-winterwear-and-outerwear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "48Md",
+        "category": "school-uniforms",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "Psrd",
+        "category": "sports-clothing-and-activewear",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "WOoY",
+        "category": "unstitched-fabric",
+        "l1_id": "2DzO",
+        "l2_id": "41Hb"
+    },
+    {
+        "id": "bRL7",
+        "category": "boys-footwear",
+        "l1_id": "2DzO",
+        "l2_id": "n2M2"
+    },
+    {
+        "id": "Bp2B",
+        "category": "girls-footwear",
+        "l1_id": "2DzO",
+        "l2_id": "n2M2"
+    },
+    {
+        "id": "I7vU",
+        "category": "school-shoes",
+        "l1_id": "2DzO",
+        "l2_id": "n2M2"
+    },
+    {
+        "id": "pTA8",
+        "category": "unisex-footwear",
+        "l1_id": "2DzO",
+        "l2_id": "n2M2"
+    },
+    {
+        "id": "UqzL",
+        "category": "bags-wallets-and-backpacks",
+        "l1_id": "2DzO",
+        "l2_id": "qyY1"
+    },
+    {
+        "id": "nu8L",
+        "category": "clothing-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "qyY1"
+    },
+    {
+        "id": "VGj6",
+        "category": "footwear-and-footcare-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "qyY1"
+    },
+    {
+        "id": "eMa1",
+        "category": "jewellery",
+        "l1_id": "2DzO",
+        "l2_id": "qyY1"
+    },
+    {
+        "id": "Ry38",
+        "category": "sunglasses-and-eyewear-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "qyY1"
+    },
+    {
+        "id": "xStV",
+        "category": "watches",
+        "l1_id": "2DzO",
+        "l2_id": "qyY1"
+    },
+    {
+        "id": "R1cY",
+        "category": "winter-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "qyY1"
+    },
+    {
+        "id": "0fTR",
+        "category": "bottoms---western-wear",
+        "l1_id": "2DzO",
+        "l2_id": "i8h1"
+    },
+    {
+        "id": "mdnx",
+        "category": "ethnic-wear",
+        "l1_id": "2DzO",
+        "l2_id": "i8h1"
+    },
+    {
+        "id": "FD6l",
+        "category": "innerwear",
+        "l1_id": "2DzO",
+        "l2_id": "i8h1"
+    },
+    {
+        "id": "6SeB",
+        "category": "rainwear",
+        "l1_id": "2DzO",
+        "l2_id": "i8h1"
+    },
+    {
+        "id": "8v2s",
+        "category": "sleepwear",
+        "l1_id": "2DzO",
+        "l2_id": "i8h1"
+    },
+    {
+        "id": "Mwv5",
+        "category": "sports-clothing-and-activewear",
+        "l1_id": "2DzO",
+        "l2_id": "i8h1"
+    },
+    {
+        "id": "fCgN",
+        "category": "tops-and-t-shirts---western-wear",
+        "l1_id": "2DzO",
+        "l2_id": "i8h1"
+    },
+    {
+        "id": "zDir",
+        "category": "unstitched-fabric",
+        "l1_id": "2DzO",
+        "l2_id": "i8h1"
+    },
+    {
+        "id": "OkPx",
+        "category": "winterwear-and-outerwear",
+        "l1_id": "2DzO",
+        "l2_id": "i8h1"
+    },
+    {
+        "id": "LKiS",
+        "category": "casual-and-formal-shoes",
+        "l1_id": "2DzO",
+        "l2_id": "ay3S"
+    },
+    {
+        "id": "kwiB",
+        "category": "ethnic-footwear",
+        "l1_id": "2DzO",
+        "l2_id": "ay3S"
+    },
+    {
+        "id": "Gr5Y",
+        "category": "footwear-and-footcare-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "ay3S"
+    },
+    {
+        "id": "mKcu",
+        "category": "safety-and-industrial-footwear",
+        "l1_id": "2DzO",
+        "l2_id": "ay3S"
+    },
+    {
+        "id": "NvnH",
+        "category": "sandals-and-floaters",
+        "l1_id": "2DzO",
+        "l2_id": "ay3S"
+    },
+    {
+        "id": "RsM3",
+        "category": "sandals-and-slippers",
+        "l1_id": "2DzO",
+        "l2_id": "ay3S"
+    },
+    {
+        "id": "CAbe",
+        "category": "sneakers-running-and-sports-shoes",
+        "l1_id": "2DzO",
+        "l2_id": "ay3S"
+    },
+    {
+        "id": "IN2D",
+        "category": "bags-handbags-and-backpacks",
+        "l1_id": "2DzO",
+        "l2_id": "Ze7o"
+    },
+    {
+        "id": "94JR",
+        "category": "footwear-and-footcare-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "Ze7o"
+    },
+    {
+        "id": "h3U3",
+        "category": "jewellery",
+        "l1_id": "2DzO",
+        "l2_id": "Ze7o"
+    },
+    {
+        "id": "BRm3",
+        "category": "sunglasses-and-eyewear-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "Ze7o"
+    },
+    {
+        "id": "oKrv",
+        "category": "watches",
+        "l1_id": "2DzO",
+        "l2_id": "Ze7o"
+    },
+    {
+        "id": "ACF4",
+        "category": "sports-clothing-and-activewear",
+        "l1_id": "2DzO",
+        "l2_id": "hG1g"
+    },
+    {
+        "id": "a36X",
+        "category": "bags-handbags-and-backpacks",
+        "l1_id": "2DzO",
+        "l2_id": "AMTK"
+    },
+    {
+        "id": "WUUw",
+        "category": "clothing-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "AMTK"
+    },
+    {
+        "id": "j9z9",
+        "category": "footwear-and-footcare-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "AMTK"
+    },
+    {
+        "id": "frAM",
+        "category": "hair-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "AMTK"
+    },
+    {
+        "id": "O9kc",
+        "category": "hats-and-headwear",
+        "l1_id": "2DzO",
+        "l2_id": "AMTK"
+    },
+    {
+        "id": "KHPd",
+        "category": "innerwear-shapewear-and-lingerie",
+        "l1_id": "2DzO",
+        "l2_id": "AMTK"
+    },
+    {
+        "id": "OaBT",
+        "category": "jewellery",
+        "l1_id": "2DzO",
+        "l2_id": "AMTK"
+    },
+    {
+        "id": "vcOv",
+        "category": "sports-clothing-and-activewear",
+        "l1_id": "2DzO",
+        "l2_id": "AMTK"
+    },
+    {
+        "id": "9Nog",
+        "category": "sunglasses-and-eyewear-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "AMTK"
+    },
+    {
+        "id": "zPQQ",
+        "category": "watches",
+        "l1_id": "2DzO",
+        "l2_id": "AMTK"
+    },
+    {
+        "id": "m2vG",
+        "category": "winter-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "AMTK"
+    },
+    {
+        "id": "XDdv",
+        "category": "bottoms---western-wear",
+        "l1_id": "2DzO",
+        "l2_id": "jfrT"
+    },
+    {
+        "id": "fW2v",
+        "category": "clothing-accessories",
+        "l1_id": "2DzO",
+        "l2_id": "jfrT"
+    },
+    {
+        "id": "pDz2",
+        "category": "dresses-and-jumpsuits",
+        "l1_id": "2DzO",
+        "l2_id": "jfrT"
+    },
+    {
+        "id": "E28r",
+        "category": "ethnic-wear",
+        "l1_id": "2DzO",
+        "l2_id": "jfrT"
+    },
+    {
+        "id": "Dsk7",
+        "category": "innerwear-shapewear-and-lingerie",
+        "l1_id": "2DzO",
+        "l2_id": "jfrT"
+    },
+    {
+        "id": "xO43",
+        "category": "maternity-wear",
+        "l1_id": "2DzO",
+        "l2_id": "jfrT"
+    },
+    {
+        "id": "XfLv",
+        "category": "rainwear",
+        "l1_id": "2DzO",
+        "l2_id": "jfrT"
+    },
+    {
+        "id": "fh6K",
+        "category": "sleepwear-and-loungewear",
+        "l1_id": "2DzO",
+        "l2_id": "jfrT"
+    },
+    {
+        "id": "N1h2",
+        "category": "sports-clothing-and-activewear",
+        "l1_id": "2DzO",
+        "l2_id": "jfrT"
+    },
+    {
+        "id": "MQ05",
+        "category": "tops-and-t-shirts---western-wear",
+        "l1_id": "2DzO",
+        "l2_id": "jfrT"
+    },
+    {
+        "id": "nIcT",
+        "category": "winterwear-and-outerwear",
+        "l1_id": "2DzO",
+        "l2_id": "jfrT"
+    },
+    {
+        "id": "TiGs",
+        "category": "casual-and-formal-shoes",
+        "l1_id": "2DzO",
+        "l2_id": "fnKT"
+    },
+    {
+        "id": "ECaz",
+        "category": "ethnic-footwear",
+        "l1_id": "2DzO",
+        "l2_id": "fnKT"
+    },
+    {
+        "id": "UL3M",
+        "category": "flip-flops",
+        "l1_id": "2DzO",
+        "l2_id": "fnKT"
+    },
+    {
+        "id": "ghuT",
+        "category": "sandals-and-floaters",
+        "l1_id": "2DzO",
+        "l2_id": "fnKT"
+    },
+    {
+        "id": "hBIL",
+        "category": "slippers-flats-and-heels",
+        "l1_id": "2DzO",
+        "l2_id": "fnKT"
+    },
+    {
+        "id": "nuxA",
+        "category": "sneakers-running-and-sports-shoes",
+        "l1_id": "2DzO",
+        "l2_id": "fnKT"
+    },
+    {
+        "id": "aa7Y",
+        "category": "sports-and-outdoor-shoes",
+        "l1_id": "2DzO",
+        "l2_id": "fnKT"
+    },
+    {
+        "id": "J2TY",
+        "category": "action-and-body-mounted-cameras",
+        "l1_id": "ec6t",
+        "l2_id": "OEBn"
+    },
+    {
+        "id": "Tv4u",
+        "category": "binoculars-and-optical-instruments",
+        "l1_id": "ec6t",
+        "l2_id": "OEBn"
+    },
+    {
+        "id": "JFKp",
+        "category": "camera-bags-and-cases",
+        "l1_id": "ec6t",
+        "l2_id": "OEBn"
+    },
+    {
+        "id": "N8w0",
+        "category": "digital-cameras-and-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "OEBn"
+    },
+    {
+        "id": "jfV9",
+        "category": "photo-studio-and-lighting",
+        "l1_id": "ec6t",
+        "l2_id": "OEBn"
+    },
+    {
+        "id": "It0f",
+        "category": "video-cameras-and-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "OEBn"
+    },
+    {
+        "id": "Vk66",
+        "category": "photo-printers-and-scanners",
+        "l1_id": "ec6t",
+        "l2_id": "OEBn"
+    },
+    {
+        "id": "L9cM",
+        "category": "projectors-and-presentation-equipment",
+        "l1_id": "ec6t",
+        "l2_id": "OEBn"
+    },
+    {
+        "id": "AyUT",
+        "category": "security-and-simulated-cameras",
+        "l1_id": "ec6t",
+        "l2_id": "OEBn"
+    },
+    {
+        "id": "9EZC",
+        "category": "adapters-and-charging-cables",
+        "l1_id": "ec6t",
+        "l2_id": "18jg"
+    },
+    {
+        "id": "vwhf",
+        "category": "battery-testers-and-testing-equipment",
+        "l1_id": "ec6t",
+        "l2_id": "18jg"
+    },
+    {
+        "id": "dAcz",
+        "category": "power-transformers-and-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "18jg"
+    },
+    {
+        "id": "qRPN",
+        "category": "power-banks-and-batteries",
+        "l1_id": "ec6t",
+        "l2_id": "18jg"
+    },
+    {
+        "id": "G9SK",
+        "category": "surge-protectors",
+        "l1_id": "ec6t",
+        "l2_id": "18jg"
+    },
+    {
+        "id": "jbqE",
+        "category": "wall-and-wireless-chargers",
+        "l1_id": "ec6t",
+        "l2_id": "18jg"
+    },
+    {
+        "id": "Go4J",
+        "category": "antivirus-and-security-devices",
+        "l1_id": "ec6t",
+        "l2_id": "KvkR"
+    },
+    {
+        "id": "TaoZ",
+        "category": "car-gps-and-navigation-systems",
+        "l1_id": "ec6t",
+        "l2_id": "KvkR"
+    },
+    {
+        "id": "dcHi",
+        "category": "ebook-readers",
+        "l1_id": "ec6t",
+        "l2_id": "KvkR"
+    },
+    {
+        "id": "Vijp",
+        "category": "fitness-and-activity-trackers",
+        "l1_id": "ec6t",
+        "l2_id": "KvkR"
+    },
+    {
+        "id": "CHqU",
+        "category": "gps-devices-and-trackers",
+        "l1_id": "ec6t",
+        "l2_id": "KvkR"
+    },
+    {
+        "id": "AX4a",
+        "category": "media-streaming-devices",
+        "l1_id": "ec6t",
+        "l2_id": "KvkR"
+    },
+    {
+        "id": "ONOC",
+        "category": "miscellaneous-mobile-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "KvkR"
+    },
+    {
+        "id": "0XsE",
+        "category": "wearable-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "KvkR"
+    },
+    {
+        "id": "OKUp",
+        "category": "smart-glasses-and-ar/vr-devices",
+        "l1_id": "ec6t",
+        "l2_id": "KvkR"
+    },
+    {
+        "id": "9ySu",
+        "category": "smart-home-devices",
+        "l1_id": "ec6t",
+        "l2_id": "KvkR"
+    },
+    {
+        "id": "8FH4",
+        "category": "smartwatches-rings-and-wearable-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "KvkR"
+    },
+    {
+        "id": "q1gK",
+        "category": "audio-and-video-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "Kb1Q"
+    },
+    {
+        "id": "8ypo",
+        "category": "bluetooth-speakers-portable-audio-devices",
+        "l1_id": "ec6t",
+        "l2_id": "Kb1Q"
+    },
+    {
+        "id": "OqU4",
+        "category": "cables-adapters-and-power-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "Kb1Q"
+    },
+    {
+        "id": "fjsQ",
+        "category": "dj-and-stage-equipment",
+        "l1_id": "ec6t",
+        "l2_id": "Kb1Q"
+    },
+    {
+        "id": "7ieT",
+        "category": "headphone-amplifiers-and-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "Kb1Q"
+    },
+    {
+        "id": "OQHa",
+        "category": "headphones-and-earbuds",
+        "l1_id": "ec6t",
+        "l2_id": "Kb1Q"
+    },
+    {
+        "id": "9plE",
+        "category": "musical-instruments",
+        "l1_id": "ec6t",
+        "l2_id": "Kb1Q"
+    },
+    {
+        "id": "62pa",
+        "category": "professional-audio-and-recording-equipment",
+        "l1_id": "ec6t",
+        "l2_id": "Kb1Q"
+    },
+    {
+        "id": "JOT5",
+        "category": "radio-and-communication-audio",
+        "l1_id": "ec6t",
+        "l2_id": "Kb1Q"
+    },
+    {
+        "id": "rJeC",
+        "category": "software-and-system-utilities",
+        "l1_id": "ec6t",
+        "l2_id": "Kb1Q"
+    },
+    {
+        "id": "J2ze",
+        "category": "speakers-home-audio-and-theater-systems",
+        "l1_id": "ec6t",
+        "l2_id": "Kb1Q"
+    },
+    {
+        "id": "oqJS",
+        "category": "audio-and-video-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "F5cL",
+        "category": "car-and-vehicle-mobile-electronics",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "oQYo",
+        "category": "cases-covers-and-sleeves",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "8RCC",
+        "category": "chargers-cables-and-power-adapters",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "SaU5",
+        "category": "connectivity-storage-and-signal-boosters",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "bNQa",
+        "category": "gaming-accessories-and-peripherals",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "7gfx",
+        "category": "landline-and-voip-devices",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "e39c",
+        "category": "miscellaneous-mobile-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "z830",
+        "category": "mobile-phones",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "DzlD",
+        "category": "mounts-stands-and-holders",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "aVm3",
+        "category": "screen-protection-and-enhancers",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "WbsO",
+        "category": "photography-and-video-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "YR5r",
+        "category": "tablet-wearables-and-vr-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "JPuJ",
+        "category": "wall-and-wireless-chargers",
+        "l1_id": "ec6t",
+        "l2_id": "HllO"
+    },
+    {
+        "id": "zakM",
+        "category": "cables-adapters-and-power-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "uHiD",
+        "category": "cases-covers-and-sleeves",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "PcQS",
+        "category": "computer-accessories-and-peripherals",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "41Xk",
+        "category": "cooling-components-and-systems",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "e2ju",
+        "category": "desktops-and-laptops",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "Aliy",
+        "category": "external-devices-and-data-storage",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "wlWT",
+        "category": "gaming-accessories-and-peripherals",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "urzn",
+        "category": "input-devices-and-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "Ks6O",
+        "category": "monitors-and-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "wkRU",
+        "category": "networking-devices-and-equipment",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "2nA8",
+        "category": "office-equipment-and-cleaners",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "sl8S",
+        "category": "photo-printers-and-scanners",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "DkCO",
+        "category": "security-and-simulated-cameras",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "p505",
+        "category": "photo-studio-and-lighting",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "HVBZ",
+        "category": "miscellaneous-mobile-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "mzDC",
+        "category": "software-and-system-utilities",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "idB2",
+        "category": "pc-gaming-peripherals",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "rBdl",
+        "category": "printers-scanners-and-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "ZQl4",
+        "category": "servers-and-server-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "a3pg",
+        "category": "tablet-devices-and-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "FEbK",
+        "category": "warranties-and-protection-plans",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "yACQ",
+        "category": "webcams-and-voip-equipment",
+        "l1_id": "ec6t",
+        "l2_id": "thUB"
+    },
+    {
+        "id": "QqLf",
+        "category": "car-and-vehicle-gps-and-navigation",
+        "l1_id": "ec6t",
+        "l2_id": "80EG"
+    },
+    {
+        "id": "3luO",
+        "category": "car-electronics-and-media-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "80EG"
+    },
+    {
+        "id": "YU2v",
+        "category": "consoles-and-gaming-systems",
+        "l1_id": "ec6t",
+        "l2_id": "5lri"
+    },
+    {
+        "id": "Xm00",
+        "category": "games-and-game-software",
+        "l1_id": "ec6t",
+        "l2_id": "5lri"
+    },
+    {
+        "id": "bi4a",
+        "category": "gaming-accessories-and-peripherals",
+        "l1_id": "ec6t",
+        "l2_id": "5lri"
+    },
+    {
+        "id": "4HDt",
+        "category": "handheld-and-legacy-gaming-devices",
+        "l1_id": "ec6t",
+        "l2_id": "5lri"
+    },
+    {
+        "id": "WeJU",
+        "category": "online-game-services",
+        "l1_id": "ec6t",
+        "l2_id": "5lri"
+    },
+    {
+        "id": "XiGT",
+        "category": "pc-and-console-games",
+        "l1_id": "ec6t",
+        "l2_id": "5lri"
+    },
+    {
+        "id": "03IM",
+        "category": "virtual-reality-(vr)-hardware",
+        "l1_id": "ec6t",
+        "l2_id": "5lri"
+    },
+    {
+        "id": "fVRo",
+        "category": "home-theater-systems",
+        "l1_id": "ec6t",
+        "l2_id": "ILS8"
+    },
+    {
+        "id": "XMe6",
+        "category": "media-streaming-devices",
+        "l1_id": "ec6t",
+        "l2_id": "ILS8"
+    },
+    {
+        "id": "KDO9",
+        "category": "satellite-and-tv-receivers",
+        "l1_id": "ec6t",
+        "l2_id": "ILS8"
+    },
+    {
+        "id": "LTXd",
+        "category": "tv-and-video-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "ILS8"
+    },
+    {
+        "id": "U7de",
+        "category": "televisions-and-home-theater-systems",
+        "l1_id": "ec6t",
+        "l2_id": "ILS8"
+    },
+    {
+        "id": "rjKX",
+        "category": "video-players-and-recorders",
+        "l1_id": "ec6t",
+        "l2_id": "ILS8"
+    },
+    {
+        "id": "obOj",
+        "category": "projectors-and-video-equipment",
+        "l1_id": "ec6t",
+        "l2_id": "ILS8"
+    },
+    {
+        "id": "J1hC",
+        "category": "other",
+        "l1_id": "ec6t",
+        "l2_id": "HbUB"
+    },
+    {
+        "id": "8JD2",
+        "category": "office-equipment-and-cleaners",
+        "l1_id": "ec6t",
+        "l2_id": "HbUB"
+    },
+    {
+        "id": "U5Ta",
+        "category": "software-and-system-utilities",
+        "l1_id": "ec6t",
+        "l2_id": "HbUB"
+    },
+    {
+        "id": "XsX7",
+        "category": "printers-scanners-and-accessories",
+        "l1_id": "ec6t",
+        "l2_id": "HbUB"
+    },
+    {
+        "id": "V9nF",
+        "category": "networking-devices-and-equipment",
+        "l1_id": "ec6t",
+        "l2_id": "HbUB"
+    },
+    {
+        "id": "2RVC",
+        "category": "musical-instruments",
+        "l1_id": "ec6t",
+        "l2_id": "HbUB"
+    },
+    {
+        "id": "P1RX",
+        "category": "photo-studio-and-lighting",
+        "l1_id": "ec6t",
+        "l2_id": "HbUB"
+    },
+    {
+        "id": "DFOY",
+        "category": "health-and-functional-drinks",
+        "l1_id": "DmYf",
+        "l2_id": "bQEK"
+    },
+    {
+        "id": "z1gE",
+        "category": "hot-beverages",
+        "l1_id": "DmYf",
+        "l2_id": "bQEK"
+    },
+    {
+        "id": "htuW",
+        "category": "juices-and-smoothies",
+        "l1_id": "DmYf",
+        "l2_id": "bQEK"
+    },
+    {
+        "id": "pPCw",
+        "category": "mocktails-cocktails",
+        "l1_id": "DmYf",
+        "l2_id": "bQEK"
+    },
+    {
+        "id": "yB6I",
+        "category": "others",
+        "l1_id": "DmYf",
+        "l2_id": "bQEK"
+    },
+    {
+        "id": "wbKK",
+        "category": "plant-based-drinks",
+        "l1_id": "DmYf",
+        "l2_id": "bQEK"
+    },
+    {
+        "id": "dd32",
+        "category": "soft-drinks-carbonated-cold-beverages",
+        "l1_id": "DmYf",
+        "l2_id": "bQEK"
+    },
+    {
+        "id": "GjG6",
+        "category": "baking-essentials",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "U3Qn",
+        "category": "broths-and-stocks",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "1AtR",
+        "category": "canned-jarred-frozen-preserved-and-processed-foods",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "mrSw",
+        "category": "fresh-produce-(fruits-vegetables-herbs)",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "xlbL",
+        "category": "grains-pulses-legumes-and-flours",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "JCpZ",
+        "category": "meat-and-mutton",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "TQeZ",
+        "category": "nuts-and-seeds",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "9lKI",
+        "category": "oils-and-fats",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "yOK6",
+        "category": "others",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "HoQ8",
+        "category": "pasta",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "D2me",
+        "category": "poultry-(eggs-chicken-turkey-and-other-birds)",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "Cadt",
+        "category": "pulses-legumes-grains-and-flours",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "UlM0",
+        "category": "sauces-and-condiments",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "Gg28",
+        "category": "seafood-(fish-and-shellfish)",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "kCKZ",
+        "category": "spices-and-seasonings",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "tU7N",
+        "category": "sweeteners",
+        "l1_id": "DmYf",
+        "l2_id": "0wjo"
+    },
+    {
+        "id": "AZ5q",
+        "category": "breads-bakery-ingredients-creams-and-essentials",
+        "l1_id": "DmYf",
+        "l2_id": "7XsF"
+    },
+    {
+        "id": "7yQR",
+        "category": "dairy-substitutes",
+        "l1_id": "DmYf",
+        "l2_id": "7XsF"
+    },
+    {
+        "id": "j9V5",
+        "category": "milk-and-dairy-products",
+        "l1_id": "DmYf",
+        "l2_id": "7XsF"
+    },
+    {
+        "id": "OllR",
+        "category": "others",
+        "l1_id": "DmYf",
+        "l2_id": "7XsF"
+    },
+    {
+        "id": "hhbm",
+        "category": "other",
+        "l1_id": "DmYf",
+        "l2_id": "pLMz"
+    },
+    {
+        "id": "SLJH",
+        "category": "chips-namkeen",
+        "l1_id": "DmYf",
+        "l2_id": "U7pU"
+    },
+    {
+        "id": "Es4V",
+        "category": "dry-fruits",
+        "l1_id": "DmYf",
+        "l2_id": "U7pU"
+    },
+    {
+        "id": "tRgm",
+        "category": "nuts-and-seeds",
+        "l1_id": "DmYf",
+        "l2_id": "U7pU"
+    },
+    {
+        "id": "kpVc",
+        "category": "other-packaged-snacks",
+        "l1_id": "DmYf",
+        "l2_id": "U7pU"
+    },
+    {
+        "id": "CLbh",
+        "category": "others",
+        "l1_id": "DmYf",
+        "l2_id": "U7pU"
+    },
+    {
+        "id": "PRRO",
+        "category": "sweets-chocolates-and-bakery-treats",
+        "l1_id": "DmYf",
+        "l2_id": "U7pU"
+    },
+    {
+        "id": "IcYP",
+        "category": "beneficial-insects",
+        "l1_id": "Y8pN",
+        "l2_id": "2zZ1"
+    },
+    {
+        "id": "IQxP",
+        "category": "compost",
+        "l1_id": "Y8pN",
+        "l2_id": "2zZ1"
+    },
+    {
+        "id": "51s7",
+        "category": "greenhouses-and-plant-germination-equipment",
+        "l1_id": "Y8pN",
+        "l2_id": "2zZ1"
+    },
+    {
+        "id": "vOHA",
+        "category": "lawn-care-products",
+        "l1_id": "Y8pN",
+        "l2_id": "2zZ1"
+    },
+    {
+        "id": "D5uZ",
+        "category": "plant-growth-regulators",
+        "l1_id": "Y8pN",
+        "l2_id": "2zZ1"
+    },
+    {
+        "id": "WDZN",
+        "category": "plant-protection",
+        "l1_id": "Y8pN",
+        "l2_id": "2zZ1"
+    },
+    {
+        "id": "Mq1V",
+        "category": "soils-mulches-and-planting-media",
+        "l1_id": "Y8pN",
+        "l2_id": "2zZ1"
+    },
+    {
+        "id": "rm4I",
+        "category": "weed-and-pest-control",
+        "l1_id": "Y8pN",
+        "l2_id": "2zZ1"
+    },
+    {
+        "id": "2u3G",
+        "category": "arbors-garden-bridges-and-other-garden-structures",
+        "l1_id": "Y8pN",
+        "l2_id": "NO9l"
+    },
+    {
+        "id": "lGOu",
+        "category": "garden-and-watering-equipment",
+        "l1_id": "Y8pN",
+        "l2_id": "NO9l"
+    },
+    {
+        "id": "5YNe",
+        "category": "gardening-accessories",
+        "l1_id": "Y8pN",
+        "l2_id": "NO9l"
+    },
+    {
+        "id": "gU53",
+        "category": "hand-tools",
+        "l1_id": "Y8pN",
+        "l2_id": "NO9l"
+    },
+    {
+        "id": "HTlO",
+        "category": "plant-and-soil-monitoring",
+        "l1_id": "Y8pN",
+        "l2_id": "NO9l"
+    },
+    {
+        "id": "8565",
+        "category": "ponds-and-water-gardens-and-water-feature-structures",
+        "l1_id": "Y8pN",
+        "l2_id": "NO9l"
+    },
+    {
+        "id": "sj8u",
+        "category": "power-tools",
+        "l1_id": "Y8pN",
+        "l2_id": "NO9l"
+    },
+    {
+        "id": "Uxxr",
+        "category": "raised-beds",
+        "l1_id": "Y8pN",
+        "l2_id": "NO9l"
+    },
+    {
+        "id": "HBCp",
+        "category": "garden-equipment",
+        "l1_id": "Y8pN",
+        "l2_id": "NO9l"
+    },
+    {
+        "id": "xWkz",
+        "category": "backyard-birding-supplies",
+        "l1_id": "Y8pN",
+        "l2_id": "3DE2"
+    },
+    {
+        "id": "X8lq",
+        "category": "beekeeping-tools-and-equipment",
+        "l1_id": "Y8pN",
+        "l2_id": "3DE2"
+    },
+    {
+        "id": "mO22",
+        "category": "hive-structures-and-components",
+        "l1_id": "Y8pN",
+        "l2_id": "3DE2"
+    },
+    {
+        "id": "c3WC",
+        "category": "livestock-equipment",
+        "l1_id": "Y8pN",
+        "l2_id": "3DE2"
+    },
+    {
+        "id": "I4R7",
+        "category": "poultry-care",
+        "l1_id": "Y8pN",
+        "l2_id": "3DE2"
+    },
+    {
+        "id": "NZgD",
+        "category": "poultry-structures-and-hardware",
+        "l1_id": "Y8pN",
+        "l2_id": "3DE2"
+    },
+    {
+        "id": "6eDS",
+        "category": "protective-gear",
+        "l1_id": "Y8pN",
+        "l2_id": "3DE2"
+    },
+    {
+        "id": "W857",
+        "category": "gardening-accessories",
+        "l1_id": "Y8pN",
+        "l2_id": "A52e"
+    },
+    {
+        "id": "EclA",
+        "category": "aquaponics",
+        "l1_id": "Y8pN",
+        "l2_id": "G1iT"
+    },
+    {
+        "id": "kQfV",
+        "category": "grow-kits",
+        "l1_id": "Y8pN",
+        "l2_id": "G1iT"
+    },
+    {
+        "id": "Wypc",
+        "category": "hydroponics",
+        "l1_id": "Y8pN",
+        "l2_id": "G1iT"
+    },
+    {
+        "id": "f1dk",
+        "category": "plant-containers",
+        "l1_id": "Y8pN",
+        "l2_id": "G1iT"
+    },
+    {
+        "id": "6m9T",
+        "category": "plants",
+        "l1_id": "Y8pN",
+        "l2_id": "G1iT"
+    },
+    {
+        "id": "PlT9",
+        "category": "seeds-and-bulbs",
+        "l1_id": "Y8pN",
+        "l2_id": "G1iT"
+    },
+    {
+        "id": "dwJP",
+        "category": "smart-health-trackers-and-wearables",
+        "l1_id": "f2if",
+        "l2_id": "Lk2n"
+    },
+    {
+        "id": "pqPF",
+        "category": "stethoscopes-thermometers-and-diagnostic-equipment",
+        "l1_id": "f2if",
+        "l2_id": "Lk2n"
+    },
+    {
+        "id": "DIbz",
+        "category": "knee-braces-elbow-braces-and-orthopedic-supplies",
+        "l1_id": "f2if",
+        "l2_id": "gHra"
+    },
+    {
+        "id": "DrAI",
+        "category": "face-mask-and-protective-equipment",
+        "l1_id": "f2if",
+        "l2_id": "gHra"
+    },
+    {
+        "id": "dn7e",
+        "category": "work-safety-equipment-and-gear",
+        "l1_id": "f2if",
+        "l2_id": "gHra"
+    },
+    {
+        "id": "nDfl",
+        "category": "home-medical-supplies-and-equipment",
+        "l1_id": "f2if",
+        "l2_id": "gHra"
+    },
+    {
+        "id": "Gv3T",
+        "category": "canes-crutches-and-accessories",
+        "l1_id": "f2if",
+        "l2_id": "1N9U"
+    },
+    {
+        "id": "Zs9l",
+        "category": "walkers-rollators-and-accessories",
+        "l1_id": "f2if",
+        "l2_id": "1N9U"
+    },
+    {
+        "id": "OFHe",
+        "category": "wheelchairs-mobility-scooters-and-accessories",
+        "l1_id": "f2if",
+        "l2_id": "1N9U"
+    },
+    {
+        "id": "4t8J",
+        "category": "electronic-cigarettes-and-accessories",
+        "l1_id": "f2if",
+        "l2_id": "vSdH"
+    },
+    {
+        "id": "Sfpc",
+        "category": "other",
+        "l1_id": "f2if",
+        "l2_id": "vSdH"
+    },
+    {
+        "id": "mzjG",
+        "category": "multivitamins-and-dietary-supplements",
+        "l1_id": "f2if",
+        "l2_id": "GLy0"
+    },
+    {
+        "id": "SOGA",
+        "category": "bathroom-linen",
+        "l1_id": "jIbq",
+        "l2_id": "4y6H"
+    },
+    {
+        "id": "zsPV",
+        "category": "bed-accessories",
+        "l1_id": "jIbq",
+        "l2_id": "4y6H"
+    },
+    {
+        "id": "Lxbn",
+        "category": "bedsheets-pillows-and-pillow-covers",
+        "l1_id": "jIbq",
+        "l2_id": "4y6H"
+    },
+    {
+        "id": "VAgX",
+        "category": "beds-and-mattresses",
+        "l1_id": "jIbq",
+        "l2_id": "4y6H"
+    },
+    {
+        "id": "1jg4",
+        "category": "blankets-and-quilts-dohars",
+        "l1_id": "jIbq",
+        "l2_id": "4y6H"
+    },
+    {
+        "id": "SmSh",
+        "category": "cushions-and-cushion-covers",
+        "l1_id": "jIbq",
+        "l2_id": "4y6H"
+    },
+    {
+        "id": "yIAz",
+        "category": "duvets-and-comforters",
+        "l1_id": "jIbq",
+        "l2_id": "4y6H"
+    },
+    {
+        "id": "09r0",
+        "category": "mattress-protectors-and-toppers",
+        "l1_id": "jIbq",
+        "l2_id": "4y6H"
+    },
+    {
+        "id": "zycW",
+        "category": "cleaning-liquids-disinfectants-and-sprays",
+        "l1_id": "jIbq",
+        "l2_id": "oyoy"
+    },
+    {
+        "id": "j0cj",
+        "category": "cleaning-tools-cloths-and-equipment",
+        "l1_id": "jIbq",
+        "l2_id": "oyoy"
+    },
+    {
+        "id": "GRJ2",
+        "category": "garbage-bags-and-trash-bins",
+        "l1_id": "jIbq",
+        "l2_id": "oyoy"
+    },
+    {
+        "id": "awI5",
+        "category": "other",
+        "l1_id": "jIbq",
+        "l2_id": "oyoy"
+    },
+    {
+        "id": "BQqy",
+        "category": "pest-control-and-repellents",
+        "l1_id": "jIbq",
+        "l2_id": "oyoy"
+    },
+    {
+        "id": "CkLY",
+        "category": "beds-and-mattresses",
+        "l1_id": "jIbq",
+        "l2_id": "7rXk"
+    },
+    {
+        "id": "yixZ",
+        "category": "garden-and-outdoor-furniture",
+        "l1_id": "jIbq",
+        "l2_id": "7rXk"
+    },
+    {
+        "id": "NiB8",
+        "category": "kids-furniture",
+        "l1_id": "jIbq",
+        "l2_id": "7rXk"
+    },
+    {
+        "id": "sXr2",
+        "category": "seating-furniture",
+        "l1_id": "jIbq",
+        "l2_id": "7rXk"
+    },
+    {
+        "id": "JC59",
+        "category": "storage-furniture",
+        "l1_id": "jIbq",
+        "l2_id": "7rXk"
+    },
+    {
+        "id": "EyuG",
+        "category": "crafting-materials",
+        "l1_id": "jIbq",
+        "l2_id": "NEod"
+    },
+    {
+        "id": "7ylv",
+        "category": "drawing-and-sketching-supplies",
+        "l1_id": "jIbq",
+        "l2_id": "NEod"
+    },
+    {
+        "id": "oxnE",
+        "category": "painting-supplies",
+        "l1_id": "jIbq",
+        "l2_id": "NEod"
+    },
+    {
+        "id": "Fd4W",
+        "category": "storage-and-organization",
+        "l1_id": "jIbq",
+        "l2_id": "NEod"
+    },
+    {
+        "id": "EfaQ",
+        "category": "candles-and-candle-holders",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "h3YR",
+        "category": "curtains-and-drapes",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "Xcf7",
+        "category": "cushions-and-cushion-covers",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "ZGOK",
+        "category": "decorative-accessories",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "Jwij",
+        "category": "furnishings-and-furnishing-accessories",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "E0pq",
+        "category": "garden-and-outdoor-furniture",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "PzmR",
+        "category": "lamps-and-lighting-decor",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "BzFl",
+        "category": "other",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "qvkQ",
+        "category": "outdoor-and-garden-decor",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "pC2j",
+        "category": "photo-frames-and-albums",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "dQQN",
+        "category": "religious-and-spiritual-decor",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "nBo5",
+        "category": "rugs-carpets-and-doormats",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "bwUg",
+        "category": "showpieces-sculptures-and-figurines",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "IRJv",
+        "category": "storage-and-organization",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "MUf5",
+        "category": "table-decor-and-accessories",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "lt7h",
+        "category": "vases-and-flower-pots-and-artificial-flora",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "jhJD",
+        "category": "wall-decor-mirrors-and-clocks",
+        "l1_id": "jIbq",
+        "l2_id": "M30W"
+    },
+    {
+        "id": "QvGY",
+        "category": "adhesives-sealants-and-tapes",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "Psie",
+        "category": "cleaning-tools-cloths-and-equipment",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "gAIP",
+        "category": "electrical-supplies",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "flTN",
+        "category": "fireplace-and-accessories",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "yvrr",
+        "category": "gardening-and-outdoor-tools",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "E3zn",
+        "category": "hand-tools",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "4mqK",
+        "category": "hardware-and-fasteners",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "OeZc",
+        "category": "heating-and-cooling-equipment",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "C2n5",
+        "category": "kitchen-and-bath-fixtures",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "Gco8",
+        "category": "ladders-and-step-stools",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "nglG",
+        "category": "lighting-fixtures-and-accessories",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "Yx2b",
+        "category": "locks-and-home-security",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "0qXL",
+        "category": "other",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "TJA7",
+        "category": "painting-supplies-and-wall-treatments",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "EIRX",
+        "category": "painting-supplies",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "y8Xo",
+        "category": "plumbing-supplies",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "aIWo",
+        "category": "power-tools",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "ueBy",
+        "category": "pumps-and-plumbing-equipment",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "AH8B",
+        "category": "safety-and-security",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "BIPT",
+        "category": "solar-and-wind-power-tools-and-accessories",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "uSfz",
+        "category": "storage-furniture",
+        "l1_id": "jIbq",
+        "l2_id": "R43g"
+    },
+    {
+        "id": "fNOv",
+        "category": "bakeware",
+        "l1_id": "jIbq",
+        "l2_id": "lWe8"
+    },
+    {
+        "id": "AEKk",
+        "category": "barbecue-and-outdoor-dining-accessories",
+        "l1_id": "jIbq",
+        "l2_id": "lWe8"
+    },
+    {
+        "id": "KRHb",
+        "category": "coffee-tea-and-espresso",
+        "l1_id": "jIbq",
+        "l2_id": "lWe8"
+    },
+    {
+        "id": "MLu8",
+        "category": "cookware",
+        "l1_id": "jIbq",
+        "l2_id": "lWe8"
+    },
+    {
+        "id": "3AJ9",
+        "category": "cutlery-utensils",
+        "l1_id": "jIbq",
+        "l2_id": "lWe8"
+    },
+    {
+        "id": "mgYU",
+        "category": "dinnerware-and-tableware",
+        "l1_id": "jIbq",
+        "l2_id": "lWe8"
+    },
+    {
+        "id": "hzbQ",
+        "category": "drinkware-and-glassware",
+        "l1_id": "jIbq",
+        "l2_id": "lWe8"
+    },
+    {
+        "id": "24g2",
+        "category": "food-storage-and-containers",
+        "l1_id": "jIbq",
+        "l2_id": "lWe8"
+    },
+    {
+        "id": "ameW",
+        "category": "kitchen-linens-table-linens-and-accessories",
+        "l1_id": "jIbq",
+        "l2_id": "lWe8"
+    },
+    {
+        "id": "ArbC",
+        "category": "kitchen-storage-and-organizers",
+        "l1_id": "jIbq",
+        "l2_id": "lWe8"
+    },
+    {
+        "id": "jnnS",
+        "category": "kitchen-tools-and-gadgets",
+        "l1_id": "jIbq",
+        "l2_id": "lWe8"
+    },
+    {
+        "id": "TC3f",
+        "category": "bathroom-lights-and-fixtures",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "Jz88",
+        "category": "ceiling-lights-and-chandeliers",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "n2Yx",
+        "category": "electrical-supplies",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "tDku",
+        "category": "emergency-and-outdoor-lights",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "getC",
+        "category": "extension-cords-and-power-strips",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "A6dH",
+        "category": "floor-table-and-desk-lamps",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "D4cJ",
+        "category": "inverters-generators-and-voltage-stabilizers",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "cEkj",
+        "category": "led-strips-and-decorative-lights",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "ziNd",
+        "category": "light-bulbs-and-tubes",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "dDSf",
+        "category": "lighting-fixtures-and-accessories",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "JTJD",
+        "category": "other",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "xe8q",
+        "category": "outdoor-and-garden-lights",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "oiwU",
+        "category": "smart-lighting",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "b8py",
+        "category": "switches-and-sockets",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "LCNS",
+        "category": "wall-lights-and-sconces",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "Uccb",
+        "category": "wiring-and-electrical-accessories",
+        "l1_id": "jIbq",
+        "l2_id": "QuDK"
+    },
+    {
+        "id": "vYB2",
+        "category": "other",
+        "l1_id": "jIbq",
+        "l2_id": "F9Ic"
+    },
+    {
+        "id": "cAHT",
+        "category": "camphor-and-sambrani",
+        "l1_id": "jIbq",
+        "l2_id": "3PiQ"
+    },
+    {
+        "id": "vdFX",
+        "category": "diyas-and-oil-lamps",
+        "l1_id": "jIbq",
+        "l2_id": "3PiQ"
+    },
+    {
+        "id": "ZtzB",
+        "category": "idols-and-figurines",
+        "l1_id": "jIbq",
+        "l2_id": "3PiQ"
+    },
+    {
+        "id": "ULua",
+        "category": "incense-and-dhoop",
+        "l1_id": "jIbq",
+        "l2_id": "3PiQ"
+    },
+    {
+        "id": "C0jj",
+        "category": "kalash-and-pooja-pots",
+        "l1_id": "jIbq",
+        "l2_id": "3PiQ"
+    },
+    {
+        "id": "ztVz",
+        "category": "other",
+        "l1_id": "jIbq",
+        "l2_id": "3PiQ"
+    },
+    {
+        "id": "P8MX",
+        "category": "pooja-bells-and-conch-shells",
+        "l1_id": "jIbq",
+        "l2_id": "3PiQ"
+    },
+    {
+        "id": "q54f",
+        "category": "pooja-thalis-and-sets",
+        "l1_id": "jIbq",
+        "l2_id": "3PiQ"
+    },
+    {
+        "id": "5uRc",
+        "category": "prayer-mats-and-aasans",
+        "l1_id": "jIbq",
+        "l2_id": "3PiQ"
+    },
+    {
+        "id": "i8Yl",
+        "category": "religious-books-and-scriptures",
+        "l1_id": "jIbq",
+        "l2_id": "3PiQ"
+    },
+    {
+        "id": "o6bT",
+        "category": "rudraksha-and-spiritual-beads",
+        "l1_id": "jIbq",
+        "l2_id": "3PiQ"
+    },
+    {
+        "id": "gKCI",
+        "category": "yantras-and-religious-symbols",
+        "l1_id": "jIbq",
+        "l2_id": "3PiQ"
+    },
+    {
+        "id": "X5JM",
+        "category": "bathroom-storage-and-organizers",
+        "l1_id": "jIbq",
+        "l2_id": "XbN6"
+    },
+    {
+        "id": "jXje",
+        "category": "kitchen-storage-and-organizers",
+        "l1_id": "jIbq",
+        "l2_id": "XbN6"
+    },
+    {
+        "id": "WYcq",
+        "category": "other",
+        "l1_id": "jIbq",
+        "l2_id": "XbN6"
+    },
+    {
+        "id": "EKN5",
+        "category": "outdoor-storage-and-housing",
+        "l1_id": "jIbq",
+        "l2_id": "XbN6"
+    },
+    {
+        "id": "Rn9E",
+        "category": "racks-storage-boxes-bins-and-organizers",
+        "l1_id": "jIbq",
+        "l2_id": "XbN6"
+    },
+    {
+        "id": "rBlh",
+        "category": "shelves-and-wall-storage",
+        "l1_id": "jIbq",
+        "l2_id": "XbN6"
+    },
+    {
+        "id": "HlDm",
+        "category": "wardrobe-and-closet-storage",
+        "l1_id": "jIbq",
+        "l2_id": "XbN6"
+    },
+    {
+        "id": "uApl",
+        "category": "adhesives-and-tapes",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "moxb",
+        "category": "art-and-craft-supplies",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "bF8i",
+        "category": "beads-and-jewelry-making-supplies",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "RFXJ",
+        "category": "calligraphy-and-lettering-supplies",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "3YLo",
+        "category": "crafting-materials",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "KHmA",
+        "category": "diy-and-hobby-kits",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "6qPU",
+        "category": "drawing-and-sketching-supplies",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "0aO5",
+        "category": "fabric-and-textile-crafts",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "0qVi",
+        "category": "leathercraft",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "z2cp",
+        "category": "other",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "RrRX",
+        "category": "painting-supplies",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "mYRe",
+        "category": "paper-craft-and-origami",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "w0S7",
+        "category": "printing-supplies",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "YNg7",
+        "category": "sculpting-and-clay-modeling",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "bRAR",
+        "category": "sewing",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "nPtM",
+        "category": "sewing-and-fabric-crafts",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "9MwB",
+        "category": "sewing-and-needlework-supplies",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "bmBQ",
+        "category": "sewing-and-quilting-supplies",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "ZXwr",
+        "category": "sewing-tools-and-accessories",
+        "l1_id": "QcgG",
+        "l2_id": "HDdj"
+    },
+    {
+        "id": "zvrJ",
+        "category": "adhesives-and-tapes",
+        "l1_id": "QcgG",
+        "l2_id": "sU9U"
+    },
+    {
+        "id": "3JYu",
+        "category": "binding-and-laminating-supplies",
+        "l1_id": "QcgG",
+        "l2_id": "sU9U"
+    },
+    {
+        "id": "SGIk",
+        "category": "erasers-sharpeners-and-correction-supplies",
+        "l1_id": "QcgG",
+        "l2_id": "sU9U"
+    },
+    {
+        "id": "9VDv",
+        "category": "files-folders-and-organizers",
+        "l1_id": "QcgG",
+        "l2_id": "sU9U"
+    },
+    {
+        "id": "g8CM",
+        "category": "other",
+        "l1_id": "QcgG",
+        "l2_id": "sU9U"
+    },
+    {
+        "id": "Ev6H",
+        "category": "paper-and-notebooks",
+        "l1_id": "QcgG",
+        "l2_id": "sU9U"
+    },
+    {
+        "id": "u5Xt",
+        "category": "printer-and-copier-supplies",
+        "l1_id": "QcgG",
+        "l2_id": "sU9U"
+    },
+    {
+        "id": "I4Yw",
+        "category": "stamps-and-labeling-tools",
+        "l1_id": "QcgG",
+        "l2_id": "sU9U"
+    },
+    {
+        "id": "ejgw",
+        "category": "writing-and-marking-tools",
+        "l1_id": "QcgG",
+        "l2_id": "sU9U"
+    },
+    {
+        "id": "pKUv",
+        "category": "educational-aids-and-learning-kits",
+        "l1_id": "QcgG",
+        "l2_id": "dLEt"
+    },
+    {
+        "id": "dWK8",
+        "category": "erasers-sharpeners-and-correction-supplies",
+        "l1_id": "QcgG",
+        "l2_id": "dLEt"
+    },
+    {
+        "id": "lVze",
+        "category": "geometry-and-measuring-tools",
+        "l1_id": "QcgG",
+        "l2_id": "dLEt"
+    },
+    {
+        "id": "dg56",
+        "category": "lunch-boxes-and-water-bottles",
+        "l1_id": "QcgG",
+        "l2_id": "dLEt"
+    },
+    {
+        "id": "7njE",
+        "category": "notebooks-and-paper",
+        "l1_id": "QcgG",
+        "l2_id": "dLEt"
+    },
+    {
+        "id": "Q6XB",
+        "category": "other",
+        "l1_id": "QcgG",
+        "l2_id": "dLEt"
+    },
+    {
+        "id": "XeSn",
+        "category": "pens-pencils-and-markers",
+        "l1_id": "QcgG",
+        "l2_id": "dLEt"
+    },
+    {
+        "id": "si1N",
+        "category": "other",
+        "l1_id": "QcgG",
+        "l2_id": "O9sW"
+    },
+    {
+        "id": "mBK0",
+        "category": "litter-and-housebreaking",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "S2wY",
+        "category": "aquariums-and-fish-bowls-breeding-tanks",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "VlpP",
+        "category": "pet-tags-and-trackers",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "Myne",
+        "category": "habitat-products-and-accessories",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "YktJ",
+        "category": "pet-care-accessories",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "BXno",
+        "category": "collars-harnesses-and-leashes",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "GfMl",
+        "category": "aquariums-and-fish-bowls-breeding-tanks-and-other-breeding-accessories",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "KL7Z",
+        "category": "dog-toys",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "jeqk",
+        "category": "exercise-equipment",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "GXNe",
+        "category": "odor-and-stain-removers",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "IEQu",
+        "category": "pet-furniture-and-scratchers",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "UZOC",
+        "category": "pet-apparel-and-accessories",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "IVCz",
+        "category": "pet-bowls-and-feeders",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "hVb5",
+        "category": "pet-carriers-and-travel-accessories",
+        "l1_id": "Xpv5",
+        "l2_id": "hHiG"
+    },
+    {
+        "id": "NmAv",
+        "category": "medication-and-health-supplies",
+        "l1_id": "Xpv5",
+        "l2_id": "wnXJ"
+    },
+    {
+        "id": "OKdi",
+        "category": "equine-health-supplies",
+        "l1_id": "Xpv5",
+        "l2_id": "wnXJ"
+    },
+    {
+        "id": "D4QX",
+        "category": "flea-and-tick-control",
+        "l1_id": "Xpv5",
+        "l2_id": "wnXJ"
+    },
+    {
+        "id": "Jl0e",
+        "category": "herbal-and-natural-remedies",
+        "l1_id": "Xpv5",
+        "l2_id": "wnXJ"
+    },
+    {
+        "id": "SO9L",
+        "category": "multivitamins-and-mineral-supplements",
+        "l1_id": "Xpv5",
+        "l2_id": "wnXJ"
+    },
+    {
+        "id": "qCfS",
+        "category": "nutritional-supplements",
+        "l1_id": "Xpv5",
+        "l2_id": "wnXJ"
+    },
+    {
+        "id": "v9XA",
+        "category": "training-tools",
+        "l1_id": "Xpv5",
+        "l2_id": "wnXJ"
+    },
+    {
+        "id": "GvaV",
+        "category": "pet-furniture-and-scratchers",
+        "l1_id": "Xpv5",
+        "l2_id": "U3C9"
+    },
+    {
+        "id": "6k4u",
+        "category": "gates-and-barriers",
+        "l1_id": "Xpv5",
+        "l2_id": "U3C9"
+    },
+    {
+        "id": "crNQ",
+        "category": "crates-houses-and-pens",
+        "l1_id": "Xpv5",
+        "l2_id": "U3C9"
+    },
+    {
+        "id": "yhcP",
+        "category": "pet-beds-and-mats",
+        "l1_id": "Xpv5",
+        "l2_id": "U3C9"
+    },
+    {
+        "id": "VEy7",
+        "category": "pet-doors-and-enclosures",
+        "l1_id": "Xpv5",
+        "l2_id": "U3C9"
+    },
+    {
+        "id": "ffkQ",
+        "category": "aquariums-and-fish-bowls-breeding-tanks",
+        "l1_id": "Xpv5",
+        "l2_id": "Ssa8"
+    },
+    {
+        "id": "FPYY",
+        "category": "bird-food",
+        "l1_id": "Xpv5",
+        "l2_id": "b7ip"
+    },
+    {
+        "id": "I4JZ",
+        "category": "cat-food",
+        "l1_id": "Xpv5",
+        "l2_id": "b7ip"
+    },
+    {
+        "id": "kIkN",
+        "category": "dog-food",
+        "l1_id": "Xpv5",
+        "l2_id": "b7ip"
+    },
+    {
+        "id": "kxOo",
+        "category": "fish-and-aquatic-food",
+        "l1_id": "Xpv5",
+        "l2_id": "b7ip"
+    },
+    {
+        "id": "Kb05",
+        "category": "insect-and-reptile-food",
+        "l1_id": "Xpv5",
+        "l2_id": "b7ip"
+    },
+    {
+        "id": "Bj7s",
+        "category": "nutritional-supplements",
+        "l1_id": "Xpv5",
+        "l2_id": "b7ip"
+    },
+    {
+        "id": "QsaE",
+        "category": "nail-care",
+        "l1_id": "Xpv5",
+        "l2_id": "pwRX"
+    },
+    {
+        "id": "3jsx",
+        "category": "clippers",
+        "l1_id": "Xpv5",
+        "l2_id": "pwRX"
+    },
+    {
+        "id": "nk4R",
+        "category": "pet-brushes-and-combs",
+        "l1_id": "Xpv5",
+        "l2_id": "pwRX"
+    },
+    {
+        "id": "o8K0",
+        "category": "pet-perfumes-and-deodorants",
+        "l1_id": "Xpv5",
+        "l2_id": "pwRX"
+    },
+    {
+        "id": "Yn1h",
+        "category": "pet-shampoos-and-conditioners",
+        "l1_id": "Xpv5",
+        "l2_id": "pwRX"
+    },
+    {
+        "id": "eNu7",
+        "category": "pet-wipes-and-towels",
+        "l1_id": "Xpv5",
+        "l2_id": "pwRX"
+    },
+    {
+        "id": "xLOG",
+        "category": "repellents",
+        "l1_id": "Xpv5",
+        "l2_id": "pwRX"
+    },
+    {
+        "id": "YeAW",
+        "category": "tubs-sprayers-and-bathing-accessories",
+        "l1_id": "Xpv5",
+        "l2_id": "pwRX"
+    },
+    {
+        "id": "NSXo",
+        "category": "bird-toys",
+        "l1_id": "Xpv5",
+        "l2_id": "ao5z"
+    },
+    {
+        "id": "3fYW",
+        "category": "cat-toys",
+        "l1_id": "Xpv5",
+        "l2_id": "ao5z"
+    },
+    {
+        "id": "KKqO",
+        "category": "dog-toys",
+        "l1_id": "Xpv5",
+        "l2_id": "ao5z"
+    },
+    {
+        "id": "wmym",
+        "category": "small-animal-toys",
+        "l1_id": "Xpv5",
+        "l2_id": "ao5z"
+    },
+    {
+        "id": "oEUu",
+        "category": "cardio-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "aMOM"
+    },
+    {
+        "id": "mjXi",
+        "category": "functional-training-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "aMOM"
+    },
+    {
+        "id": "YL8s",
+        "category": "gym-accessories-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "aMOM"
+    },
+    {
+        "id": "HO9w",
+        "category": "hydration-and-nutrition-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "aMOM"
+    },
+    {
+        "id": "4gRR",
+        "category": "recovery-and-rehabilitation-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "aMOM"
+    },
+    {
+        "id": "2Zjh",
+        "category": "recovery-and-therapy-tools-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "aMOM"
+    },
+    {
+        "id": "z4Ut",
+        "category": "resistance-and-bodyweight-training-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "aMOM"
+    },
+    {
+        "id": "yRZO",
+        "category": "sports-and-fitness-tech",
+        "l1_id": "R9Dg",
+        "l2_id": "aMOM"
+    },
+    {
+        "id": "cLvF",
+        "category": "strength-training-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "aMOM"
+    },
+    {
+        "id": "7Yrs",
+        "category": "water-sports-products-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "aMOM"
+    },
+    {
+        "id": "k25x",
+        "category": "yoga-and-pilates-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "aMOM"
+    },
+    {
+        "id": "MTTa",
+        "category": "other",
+        "l1_id": "R9Dg",
+        "l2_id": "0qr3"
+    },
+    {
+        "id": "Wto8",
+        "category": "adventure-safety-and-navigation",
+        "l1_id": "R9Dg",
+        "l2_id": "0qr3"
+    },
+    {
+        "id": "Ym6g",
+        "category": "camping-products-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "0qr3"
+    },
+    {
+        "id": "Qz6b",
+        "category": "climbing-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "0qr3"
+    },
+    {
+        "id": "VTUx",
+        "category": "cycling-products-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "0qr3"
+    },
+    {
+        "id": "nEgI",
+        "category": "hiking-and-trekking-products-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "0qr3"
+    },
+    {
+        "id": "jHwp",
+        "category": "hunting-products-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "0qr3"
+    },
+    {
+        "id": "BHOB",
+        "category": "water-sports-products-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "0qr3"
+    },
+    {
+        "id": "gs7l",
+        "category": "winter-sports-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "0qr3"
+    },
+    {
+        "id": "Jfvp",
+        "category": "other",
+        "l1_id": "R9Dg",
+        "l2_id": "Q9DT"
+    },
+    {
+        "id": "a1tF",
+        "category": "combat-sports-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "VD4v"
+    },
+    {
+        "id": "02YM",
+        "category": "hunting-products-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "VD4v"
+    },
+    {
+        "id": "ZsRr",
+        "category": "indoor-sports-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "VD4v"
+    },
+    {
+        "id": "Mzar",
+        "category": "track-and-field-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "VD4v"
+    },
+    {
+        "id": "tQnH",
+        "category": "outdoor-team-sports-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "VD4v"
+    },
+    {
+        "id": "VDDx",
+        "category": "other",
+        "l1_id": "R9Dg",
+        "l2_id": "VD4v"
+    },
+    {
+        "id": "hrmt",
+        "category": "outdoor-and-adventure-equipments-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "VD4v"
+    },
+    {
+        "id": "qEqA",
+        "category": "racquet-sports-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "VD4v"
+    },
+    {
+        "id": "h7LH",
+        "category": "sports-and-fitness-tech",
+        "l1_id": "R9Dg",
+        "l2_id": "VD4v"
+    },
+    {
+        "id": "eWEG",
+        "category": "sports-training-aids",
+        "l1_id": "R9Dg",
+        "l2_id": "VD4v"
+    },
+    {
+        "id": "CK66",
+        "category": "trophies-medal-and-shields",
+        "l1_id": "R9Dg",
+        "l2_id": "VD4v"
+    },
+    {
+        "id": "2rHo",
+        "category": "water-sports-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "VD4v"
+    },
+    {
+        "id": "ZdUz",
+        "category": "winter-sports-equipment-and-accessories",
+        "l1_id": "R9Dg",
+        "l2_id": "VD4v"
+    },
+    {
+        "id": "yq5t",
+        "category": "action-figures-and-collectibles",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "6zxD",
+        "category": "arts-crafts-and-diy-kits",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "oUuP",
+        "category": "baby-and-toddler-toys",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "S0DP",
+        "category": "bikes-trikes-and-ride-ons",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "V4fN",
+        "category": "bikes-trikes-and-ride-ons----baby-rides",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "c6EG",
+        "category": "blasters-and-toy-guns",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "CrDL",
+        "category": "building-and-construction-toys",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "3Mrh",
+        "category": "dolls-and-accessories",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "DzsR",
+        "category": "dress-up-and-pretend-play",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "f5E5",
+        "category": "educational-and-learning-toys",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "HYC4",
+        "category": "electronic-and-remote-controlled-toys",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "QteA",
+        "category": "model-trains-and-accessories",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "di0l",
+        "category": "musical-toy-instruments",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "FVUD",
+        "category": "novelty-and-gag-toys",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "BG5e",
+        "category": "outdoor-toys-and-accesories",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "QXHk",
+        "category": "outdoor-toys-and-accessories",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "fqVJ",
+        "category": "party-supplies-and-games",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "JGek",
+        "category": "puppets-and-puppet-theatres",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "3kqI",
+        "category": "puzzles-and-board-games",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "TuRt",
+        "category": "remote-controlled-and-model-toys",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "WHzP",
+        "category": "soft-toys-and-plush",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "7JJB",
+        "category": "toy-vehicles-and-playsets",
+        "l1_id": "HFGN",
+        "l2_id": "E50t"
+    },
+    {
+        "id": "gghv",
+        "category": "baby-activity-and-playtime-gear",
+        "l1_id": "HFGN",
+        "l2_id": "TVV2"
+    },
+    {
+        "id": "g61T",
+        "category": "baby-bathing-and-grooming-essentials",
+        "l1_id": "HFGN",
+        "l2_id": "TVV2"
+    },
+    {
+        "id": "Wqvf",
+        "category": "baby-bedding-and-room-d\u00e9cor",
+        "l1_id": "HFGN",
+        "l2_id": "TVV2"
+    },
+    {
+        "id": "jFlh",
+        "category": "baby-car-seats-and-accessories",
+        "l1_id": "HFGN",
+        "l2_id": "TVV2"
+    },
+    {
+        "id": "CuQl",
+        "category": "baby-carriers-and-accessories",
+        "l1_id": "HFGN",
+        "l2_id": "TVV2"
+    },
+    {
+        "id": "GziQ",
+        "category": "baby-diapering-and-changing-essentials",
+        "l1_id": "HFGN",
+        "l2_id": "TVV2"
+    },
+    {
+        "id": "5Ym2",
+        "category": "baby-furniture-and-tableware",
+        "l1_id": "HFGN",
+        "l2_id": "TVV2"
+    },
+    {
+        "id": "5GKd",
+        "category": "baby-gifts-and-keepsakes",
+        "l1_id": "HFGN",
+        "l2_id": "TVV2"
+    },
+    {
+        "id": "8B1Z",
+        "category": "baby-health-and-safety-products",
+        "l1_id": "HFGN",
+        "l2_id": "TVV2"
+    },
+    {
+        "id": "Dm8n",
+        "category": "baby-monitor-devices",
+        "l1_id": "HFGN",
+        "l2_id": "TVV2"
+    },
+    {
+        "id": "j70v",
+        "category": "baby-potty-training-products",
+        "l1_id": "HFGN",
+        "l2_id": "TVV2"
+    },
+    {
+        "id": "wU63",
+        "category": "baby-strollers-buggies-and-prams",
+        "l1_id": "HFGN",
+        "l2_id": "TVV2"
+    },
+    {
+        "id": "h8ZB",
+        "category": "maternity-essentials",
+        "l1_id": "HFGN",
+        "l2_id": "TVV2"
+    },
+    {
+        "id": "Hjx2",
+        "category": "baby-bathing-essentials",
+        "l1_id": "HFGN",
+        "l2_id": "ICLR"
+    },
+    {
+        "id": "XGGG",
+        "category": "baby-health-and-safety-products",
+        "l1_id": "HFGN",
+        "l2_id": "ICLR"
+    },
+    {
+        "id": "n9xB",
+        "category": "baby-skincare-products",
+        "l1_id": "HFGN",
+        "l2_id": "ICLR"
+    },
+    {
+        "id": "fF0P",
+        "category": "baby-diapering-and-changing-essentials",
+        "l1_id": "HFGN",
+        "l2_id": "iLN9"
+    },
+    {
+        "id": "Z57z",
+        "category": "baby-wipes",
+        "l1_id": "HFGN",
+        "l2_id": "iLN9"
+    },
+    {
+        "id": "uS4v",
+        "category": "diapers",
+        "l1_id": "HFGN",
+        "l2_id": "iLN9"
+    },
+    {
+        "id": "iqvI",
+        "category": "baby-feeding-and-accessories",
+        "l1_id": "HFGN",
+        "l2_id": "0GHe"
+    },
+    {
+        "id": "BliV",
+        "category": "baby-feeding-accessories",
+        "l1_id": "HFGN",
+        "l2_id": "0GHe"
+    },
+    {
+        "id": "CC1l",
+        "category": "baby-food-and-snacks",
+        "l1_id": "HFGN",
+        "l2_id": "0GHe"
+    },
+    {
+        "id": "07l5",
+        "category": "baby-food-storage-and-warmers",
+        "l1_id": "HFGN",
+        "l2_id": "0GHe"
+    },
+    {
+        "id": "ic23",
+        "category": "baby-furniture-and-tableware",
+        "l1_id": "HFGN",
+        "l2_id": "0GHe"
+    },
+    {
+        "id": "QWpO",
+        "category": "baby-pacifiers-and-teethers",
+        "l1_id": "HFGN",
+        "l2_id": "0GHe"
+    },
+    {
+        "id": "wHIM",
+        "category": "dolls-and-accessories",
+        "l1_id": "HFGN",
+        "l2_id": "9suI"
+    }
+]
